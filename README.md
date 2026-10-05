@@ -14,11 +14,11 @@ Le programme étant écrit en Python, il doit être installé sur votre ordinate
 
 Tout d'abord, recupérez mon projet avec cette commande : 
 
-```git clone https://github.com/R4mTex/Pur_Beurre.git```
+```git clone https://github.com/R4mTex/Pur-Beurre.git```
 
 puis placez-vous dans ce dossier : 
 
-```cd Pur_Beurre/pur_beurre_app```
+```cd Pur-Beurre/pur_beurre_app```
 
 Pour ne pas interférer avec d'autres projets, il est conseillé d'exécuter celui-ci dans un environnement virtuel. 
 Voici les principales commandes pour :
